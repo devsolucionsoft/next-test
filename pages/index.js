@@ -104,3 +104,4 @@ export default function Home({ metaTagsList }) {
     </div >
   )
 }
+
